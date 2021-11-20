@@ -25,16 +25,6 @@ html {
     z-index: 1;
 }
 
-.btn::before {
-    position: absolute;
-    content: "";
-    display: block;
-    bottom: 100px;
-    width: 100px;
-    height: 200px;
-    right: 44%;
-    bottom: -200px;
-}
 
 .btn:hover {
     cursor: pointer;

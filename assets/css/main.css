@@ -70,6 +70,7 @@ html {
     /* position: relative; */
     display: none;
     animation: ani1 .3s ease-in-out;
+    z-index: 1;
 }
 
 .modal.open {
